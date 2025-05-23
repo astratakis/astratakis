@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astratakis
-- 📫 How to reach me andrew.stratakis@gmail.com | +30 6975588195 | 
+- 📫 How to reach me andrew.stratakis@gmail.com | 
 
 <!---
 astratakis/astratakis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
